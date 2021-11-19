@@ -1,0 +1,42 @@
+.alice-carousel__dots {
+    display: none;
+
+}
+
+.alice-carousel__prev-btn {
+    position: absolute;
+    left: 0;
+    bottom: 40%;
+    width: fit-content;
+}
+
+.alice-carousel__next-btn {
+    width: fit-content;
+    position: absolute;
+    right: 0;
+    bottom: 40%;
+    
+
+}
+
+.alice-carousel__next-btn span {
+    font-size: 40px;
+    font-weight: bolder;
+    color: aqua;
+
+
+}
+
+.alice-carousel__next-btn span:hover {
+    color: red;
+}
+
+.alice-carousel__prev-btn span {
+    font-size: 40px;
+    font-weight: bolder;
+    color: aqua;
+}
+
+.alice-carousel__prev-btn:hover span {
+    color: red;
+}
