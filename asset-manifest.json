@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/CarsProject/static/css/main.57547efe.chunk.css",
+    "main.js": "/CarsProject/static/js/main.38c5b607.chunk.js",
+    "main.js.map": "/CarsProject/static/js/main.38c5b607.chunk.js.map",
+    "runtime-main.js": "/CarsProject/static/js/runtime-main.5ed1fec5.js",
+    "runtime-main.js.map": "/CarsProject/static/js/runtime-main.5ed1fec5.js.map",
+    "static/css/2.02daa001.chunk.css": "/CarsProject/static/css/2.02daa001.chunk.css",
+    "static/js/2.36a7a67f.chunk.js": "/CarsProject/static/js/2.36a7a67f.chunk.js",
+    "static/js/2.36a7a67f.chunk.js.map": "/CarsProject/static/js/2.36a7a67f.chunk.js.map",
+    "static/js/3.aa6cbc6c.chunk.js": "/CarsProject/static/js/3.aa6cbc6c.chunk.js",
+    "static/js/3.aa6cbc6c.chunk.js.map": "/CarsProject/static/js/3.aa6cbc6c.chunk.js.map",
+    "index.html": "/CarsProject/index.html",
+    "static/css/2.02daa001.chunk.css.map": "/CarsProject/static/css/2.02daa001.chunk.css.map",
+    "static/css/main.57547efe.chunk.css.map": "/CarsProject/static/css/main.57547efe.chunk.css.map",
+    "static/js/2.36a7a67f.chunk.js.LICENSE.txt": "/CarsProject/static/js/2.36a7a67f.chunk.js.LICENSE.txt",
+    "static/media/Ferrari.0ee7e156.jpg": "/CarsProject/static/media/Ferrari.0ee7e156.jpg",
+    "static/media/bmw.ddabdc17.jpg": "/CarsProject/static/media/bmw.ddabdc17.jpg",
+    "static/media/buggati.3bdc12ed.jpg": "/CarsProject/static/media/buggati.3bdc12ed.jpg",
+    "static/media/ford.030a818d.jpg": "/CarsProject/static/media/ford.030a818d.jpg",
+    "static/media/logo.6ce24c58.svg": "/CarsProject/static/media/logo.6ce24c58.svg",
+    "static/media/logo.f85f400b.png": "/CarsProject/static/media/logo.f85f400b.png",
+    "static/media/mercedes.250abbbc.jpg": "/CarsProject/static/media/mercedes.250abbbc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ed1fec5.js",
+    "static/css/2.02daa001.chunk.css",
+    "static/js/2.36a7a67f.chunk.js",
+    "static/css/main.57547efe.chunk.css",
+    "static/js/main.38c5b607.chunk.js"
+  ]
+}
